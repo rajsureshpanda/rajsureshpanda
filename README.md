@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 
 <h1 align="center">Hi 👋, I'm Raj Suresh Panda</h1>
-<h3 align="center">A passionate Tech Savvy who loves to create things</h3>
+<h3 align="center">A passionate Tech Savvy who loves to create things for the betterment of society</h3>
 <img align="right" a;t="Coding width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsureshpanda&label=Profile%20views&color=0e75b6&style=flat" alt="rajsureshpanda" /> </p>
